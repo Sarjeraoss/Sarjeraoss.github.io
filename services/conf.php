@@ -12,19 +12,19 @@ class CONF {
     public $DB_NAME     = "markeet";
 
     /* FCM key for notification */
-    public $FCM_KEY     = "AIzaSyBZ5C4WzoPQo7ysyqh0yZ_UShS2ujr5RAA";
+    public $FCM_KEY     = "AIzaSyCv-90mFpx3SCWlIKSXXXXXXXXXXXXXXXXX";
 
 
     /* [ IMPORTANT ] be careful when edit this security code, use AlphaNumeric only*/
     /* This string must be same with security code at Android, if its different android unable to submit order */
-    public $SECURITY_CODE = "umZV7rzSHfyDMWKBpqgyKPIzYouxoaiGGrv5i91rpy7y6bmLsf48jNOyJbAawdXtTDYlQhIlvtNvPB0xH05x7Z6FWgYar3FWTwPF";
+    public $SECURITY_CODE = "8V06LupAaMBLtQqyqTxmcN42nn27FlejvaoSM3zXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
     /* Mailer config ---------------------------------------------------- */
 
     // change with yours
-    public $SMTP_EMAIL      = "sarshelar@gmail.com";
-    public $SMTP_PASSWORD   = "nayahaiwaha";
-    public $SMTP_HOST       = "mail.gmail.com";
+    public $SMTP_EMAIL      = "sample@your-domain.com";
+    public $SMTP_PASSWORD   = "password";
+    public $SMTP_HOST       = "mail.your-domain.com";
     public $SMTP_PORT       = 562;
 
     // for administrator & for buyer
